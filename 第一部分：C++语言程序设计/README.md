@@ -5,3 +5,4 @@
 - 视频：[C++语言程序设计（B站）](https://www.bilibili.com/video/BV1UQ4y167Z7)
 ### 章节分布：
 - `Chapter-01`：绪论
+- `Chapter-02`：C++简单程序设计
