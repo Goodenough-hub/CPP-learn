@@ -26,7 +26,7 @@ int main()
 	int m;
 	cout << "Enter the number of diskes: ";
 	cin >> m;
-	cout << "the steps to moving " << m << "diskes:" << endl;
+	cout << "the steps to moving " << m << " diskes:" << endl;
 	hanoi(m, 'A', 'B', 'C');
 	return 0;
 }
